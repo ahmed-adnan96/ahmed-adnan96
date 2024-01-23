@@ -30,8 +30,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass&logoColor=1572B6)&nbsp;
-![Jquery](https://img.shields.io/badge/-sass-05122A?style=flat&logo=jquery&logoColor=1572B6)&nbsp;
-![Angular+2](https://img.shields.io/badge/-sass-05122A?style=flat&logo=angular&logoColor=1572B6)&nbsp;
+![Jquery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery&logoColor=1572B6)&nbsp;
+![Angular+2](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular&logoColor=1572B6)&nbsp;
 
 
 
